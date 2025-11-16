@@ -1,4 +1,5 @@
-Dátum konvertáló
+#Neptun kód: EGUKF8
+#Dátum konvertáló
 A program felhasználója megad egy dátumot (ÉÉÉÉ.HH.NN). Ezután a program ki ír adadtokat:
 
 Ki írja a megadott dátumot: pl 2004.03.17
